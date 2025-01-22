@@ -2,4 +2,4 @@ stages:
   - trigger-mentor-plugins
 
 include:
-  - component: $CI_SERVER_FQDN/devops/cicd/gitlab-ci-toolkit/mentor-submodules-deploy@mentor
+  - component: $CI_SERVER_FQDN/devops/cicd/gitlab-ci-toolkit/mentor-submodules-deploy@1.12.5
